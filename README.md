@@ -30,3 +30,10 @@ For example, the following tree has 5 unival subtrees:
    1   0
   / \
  1   1
+
+## Problem 2020123: Comparing 2 datasets
+
+- Input 1: Excel with isins
+- Prepare script 1: generating 2 SQL scripts
+- Manualy download 2 Excel dasets
+- script2: Compare two datasets
